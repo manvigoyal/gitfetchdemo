@@ -5,5 +5,4 @@ just how fetch command works in git.
 .
 .
 .
-
 hello
